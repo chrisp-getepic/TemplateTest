@@ -1,0 +1,2 @@
+- [ ] Squash
+- [x] Delete Branch
