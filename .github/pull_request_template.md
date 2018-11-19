@@ -1,3 +1,7 @@
+Details:
+
+Asana Link:
+
 - [ ] Squash
 - [x] Delete Branch
 
