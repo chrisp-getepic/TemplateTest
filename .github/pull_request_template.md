@@ -1,8 +1,8 @@
-Details:
+**Details:**
 
-Asana Link:
+**Asana Link:**
 
 - [ ] Squash
 - [x] Delete Branch
 
-![Epic! Logo](epic-logo.svg)
+![](https://github.com/chrisp-getepic/TemplateTest/blob/master/.github/epic-logo.png?raw=true)
